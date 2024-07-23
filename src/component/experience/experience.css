@@ -1,6 +1,6 @@
 .experience__container {
   display: flex;
-  align-items: start;
+  align-items: flex-start;
   justify-content: center;
   width: 100%;
   gap: 2rem;

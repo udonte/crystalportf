@@ -1,7 +1,7 @@
 import React from "react";
 import profileImage from "../../assets/me1.png";
-import { FaAward, FaUsers, FaLaptopCode } from "react-icons/fa";
-import { AiFillFolderOpen } from "react-icons/ai";
+// import { FaAward, FaUsers, FaLaptopCode } from "react-icons/fa";
+// import { AiFillFolderOpen } from "react-icons/ai";
 
 import "./about.css";
 
