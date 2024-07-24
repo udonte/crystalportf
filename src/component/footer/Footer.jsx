@@ -39,7 +39,7 @@ const Footer = () => {
         >
           <BsLinkedin />{" "}
         </a>
-        <a href="https://twitter.com/GeorgeUdonte">
+        <a href="https://twitter.com/ChristianahIfe4">
           <BsTwitter />
         </a>
       </div>
