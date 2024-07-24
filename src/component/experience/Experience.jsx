@@ -19,8 +19,8 @@ const skills = [
   "Canva",
   "HTML",
   "CSS",
+  "Github",
   "Notion",
-  "Microsoft Office Suite",
   "Google Workspace",
 ];
 
