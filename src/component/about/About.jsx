@@ -21,12 +21,23 @@ const About = () => {
         <div className="about__content">
           <p>
             As a Product Manager with a passion for turning ideas into reality.
-            I've mastered the art of juggling product lifecycles, rallying
+            I am learning the art of juggling product lifecycles, rallying
             cross-functional teams, and delivering innovative solutions that
             make users go "Wow!" My superpower? Translating business needs into
-            tech specs and driving product vision like a seasoned pro. I'm all
-            about crafting software solutions that not only meet but exceed
-            expectations.
+            tech specifications and driving product vision like a professional.
+            I'm all about crafting software solutions that not only meet but
+            exceed expectations.
+            <br />
+            <br />
+            <span className="hng">
+              <a href="https://hng.tech/">HNG</a>
+            </span>{" "}
+            has given me an opportunity to be a part of an amazing team in
+            building a language Learning AI Game to help people learn new
+            languages in a fun and practical way while still playing a game. The
+            success of this product will create an immense joy and pride in
+            knowing I can work smartly to ensure that whatever product I manage
+            will result to a groundbreaking achievement.
             <br />
             <br />
             I thrive in dynamic environments where creativity and strategy
@@ -44,9 +55,14 @@ const About = () => {
             together and make a lasting impact!
           </p>
 
-          <a href="#contact" className="btn btn-primary">
-            Let's Talk
-          </a>
+          <div className="about__content_links">
+            <a href="#contact" className="btn btn-primary">
+              Let's Talk
+            </a>
+            <a href="https://hng.tech/internship" className="btn btn-primary">
+              About the HNG Internship
+            </a>
+          </div>
         </div>
       </div>
     </section>

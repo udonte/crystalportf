@@ -45,8 +45,10 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <p>Built with Love & Light</p>
-        <small>&copy; Christainah Atunbi 2024. All rights reserved</small>
+        <p>
+          Powered by <a href="https://hng.tech/">HNG.TECH</a>
+        </p>
+        <small>&copy; Christianah Atunbi 2024. All rights reserved</small>
       </div>
     </footer>
   );
